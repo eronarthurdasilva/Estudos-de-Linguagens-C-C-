@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683724327 source:c:\users\erona\onedrive\Área de trabalho\faculdade\engenharia de computaÇÂo\algoritmos e estruturas de dados 1\listas de atividades c\prova b\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
